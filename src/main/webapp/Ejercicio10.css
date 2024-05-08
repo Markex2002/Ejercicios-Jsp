@@ -1,0 +1,44 @@
+div{
+    display: flex;
+    justify-content: center;
+    p{
+        margin: 20px
+    }
+}
+
+img{
+    height: 200px;
+    margin: 20px;
+}
+
+.enviar{
+    width: 100px;
+    padding: 5px;
+    margin-left: 160px;
+}
+
+
+#tarrina{
+    position: relative;
+    height: 400px;
+    width: 40%;
+    border: 10px solid black;
+    border-style: none solid solid solid;
+}
+
+.chocolate{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: saddlebrown;
+}
+.vainilla{
+    position: absolute;
+    width: 100%;
+    background-color: beige;
+}
+.fresa{
+    position: absolute;
+    width: 100%;
+    background-color: palevioletred;
+}

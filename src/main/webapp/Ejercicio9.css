@@ -1,0 +1,23 @@
+body{
+    background-color: #308830;
+}
+
+
+
+table{
+    border: black solid 6px;
+    background-color: blanchedalmond;
+}
+
+th{
+    height: 100px;
+    width: 100px;
+}
+
+.cNegra{
+    background-color: black;
+    color: white;
+}
+.cBlanca{
+    background-color: blanchedalmond;
+}
